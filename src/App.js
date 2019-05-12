@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Built inside of <code>docker-compose</code> with directory mapping
+          Pulled from <code>feature-branch</code>
         </p>
         <a
           className="App-link"
